@@ -1,6 +1,6 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
+-- fastn.package: saket687.github.io/fastn-new-color-package
 
 -- fastn.dependency: fastn-community.github.io/code-block
 -- fastn.dependency: fastn-community.github.io/dark-mode-switcher
