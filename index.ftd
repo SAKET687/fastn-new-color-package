@@ -7,7 +7,6 @@
 
 -- string figma-json:
 $processor$: pr.figma-cs-token
-
 variable: $main
 name: default-colors
 
